@@ -16,4 +16,5 @@
 #app-mount .customStatusEmoji-3a2-Zo{margin-top:0px}
 #app-mount .actionButtons-14eAc_ > span:nth-child(n) ,.actionButtons-14eAc_ > span:nth-child(n) > button{width:32px;height:32px;min-width:32px;min-height:32px;}
 #app-mount .container-2wlB3z{height:calc(100% + var(--app-info-bar-height))}
-#app-mount .header-3msK0M{overflow: hidden}
+#app-mount .footer-2gL1pp > button{color: #ffffff;}
+#app-mount .container-1CE3eW > div > div > div{overflow: hidden}
